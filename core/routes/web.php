@@ -29,4 +29,5 @@ Route::group([  'middleware' => 'Language'], function () {
     Route::post('/settings', 'App\Http\Controllers\Admin\SettingController@store')->name('settings.store')->middleware('can:onle_admin');
 
 
+
 });
