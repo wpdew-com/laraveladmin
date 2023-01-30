@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule (.*) /core/public/install/$1 [L]

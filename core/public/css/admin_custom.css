@@ -1,0 +1,41 @@
+.pagination{
+    margin-top: 1em;
+}
+.help-block{
+    color: #ff0500;
+    font-size: 12px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.alert .close, .alert .mailbox-attachment-close{
+    color: #fff;
+    opacity: 1;
+}
+
+.help-header{
+    background-color: #e4f7ff;
+    margin: 1em;
+    padding: 0.4em 0.3em 0em 1.5em;
+}
+
+.ulpanel{
+    padding-inline-start: 1em;
+    list-style: disc;
+}
+.ulpanel li{
+    list-style: disc;
+}
+
+td .badge{
+    padding: 0.5em;
+}
+
+.help-sidebar a{
+    color: rgb(93 158 255);
+    font-weight: 600;
+    text-decoration: underline;
+}
+.flag-icon{
+    box-shadow: 0 1px 2px rgb(0 0 0 / 25%);
+}
