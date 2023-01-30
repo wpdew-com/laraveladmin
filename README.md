@@ -1,4 +1,4 @@
-# Laravel HotNews sestem Development
+# Laravel sestem Development
 
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/codeigniter4/CodeIgniter4)](https://packagist.org/packages/codeigniter4/framework)
@@ -6,7 +6,7 @@
 
 <br> 
 
-## What is HotNews Laravel?
+## What's in this Laravel development package?
 
 https://github.com/wpdew-com/laraveladmin
 
