@@ -21,7 +21,7 @@ The [User Guide](https://laravel.com/docs/9.x) is the primary documentation for 
 
 ## Server Requirements
 
-PHP version 8.0 or higher is required, with the following extensions installed:
+PHP version 8.1 or higher is required, with the following extensions installed:
 
 
 - [intl](http://php.net/manual/en/intl.requirements.php)
@@ -86,4 +86,6 @@ gulp
 
 2. Build template
 
+```
+gulp build
 ```
